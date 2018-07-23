@@ -37,14 +37,14 @@ end
  bob_the_reins
  bob_the_reins
  bob_the_reins
- skip-step
- skip-step
- skip-step
- skip-step
- skip-step
- skip-step
- skip-step
- skip-step
+ skipstep
+ skipstep
+ skipstep
+ skipstep
+ skipstep
+ skipstep
+ skipstep
+ skipstep
  lasso
  lasso
  lasso
