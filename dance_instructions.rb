@@ -6,7 +6,7 @@ def footwork
   puts "finishing with a small skip-step backward"
 end
 
-def skip-step
+def skipstep
   puts "lower left foot to the ground"
   puts "bounce left foot back up slighlty, kicking it a few inches back"
   puts "left,right, left and left"
@@ -53,11 +53,11 @@ end
  lasso
  lasso
  lasso
- skip-step
- skip-step
- skip-step
- skip-step
- skip-step
- skip-step
- skip-step
- skip-step
+ skipstep
+ skipstep
+ skipstep
+ skipstep
+ skipstep
+ skipstep
+ skipstep
+ skipstep
