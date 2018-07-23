@@ -27,7 +27,7 @@ end
    puts "raise right forearm so that it points straight up, and whip ot on small circles to the beat of the song, as if you were a cowboy holding a rope lasso. this movement is repeated eight times as well"
  end
  def starting_stance
-  puts "plant legs far apart, bend knees slightly and keep posture loose"
+  puts "Plant legs far apart, bend knees slightly and keep posture loose"
  end
  starting_stance
  footwork
