@@ -28,8 +28,9 @@ end
  end
  
  def starting_stance
-  puts "Plant their legs far apart, bend knees slightly and keep posture loose"
+  puts "Plant legs far apart, bend knees slightly and keep posture loose"
  end
+ 
  starting_stance
  footwork
  bob_the_reins
