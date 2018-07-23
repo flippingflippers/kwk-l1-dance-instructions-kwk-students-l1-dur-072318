@@ -26,8 +26,9 @@ end
    puts "lift right arm up and point right elbow diagonally to the right"
    puts "raise right forearm so that it points straight up, and whip ot on small circles to the beat of the song, as if you were a cowboy holding a rope lasso. this movement is repeated eight times as well"
  end
- def stance
- puts "plant legs far apart, bend knees slightly and keep posture loose"
+ def starting_stance
+  puts "plant legs far apart, bend knees slightly and keep posture loose"
+ end
  footwork
  bob_the_reins
  bob_the_reins
